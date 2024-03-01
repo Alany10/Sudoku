@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"se.kth.alany.lab4test","l":"lab.lab4"},{"m":"se.kth.alany.lab4test","l":"lab.lab4.controller"},{"m":"se.kth.alany.lab4test","l":"lab.lab4.model"},{"m":"se.kth.alany.lab4test","l":"lab.lab4.view"}];updateSearchResults();

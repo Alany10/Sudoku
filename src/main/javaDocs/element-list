@@ -1,0 +1,5 @@
+module:se.kth.alany.lab4test
+lab.lab4
+lab.lab4.controller
+lab.lab4.model
+lab.lab4.view
